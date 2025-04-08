@@ -61,7 +61,8 @@ fanzhuan/
 
 ## 预览图 🖼️
 
-![预览图](preview.png)
+![1744124908752](https://github.com/user-attachments/assets/a153cda3-2352-4afa-a709-68b6a5de2147)
+
 
 ## 更新日志 📅
 
